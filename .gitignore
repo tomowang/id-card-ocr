@@ -1,0 +1,7 @@
+data/Train_Labels.csv
+data/Train_DataSet.zip
+data/Train_DataSet
+.vscode
+__pycache__
+ocr-db
+ocr-images
