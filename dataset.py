@@ -13,7 +13,7 @@ import lmdb
 import torch.nn as nn
 from torch.autograd import Variable
 import torch.optim as optim
-from warpctc_pytorch import CTCLoss
+# from warpctc_pytorch import CTCLoss
 
 from create_dataset import *
 
